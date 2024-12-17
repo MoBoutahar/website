@@ -3,7 +3,7 @@
     height: 400px;
 }
 
-@media (max-width: 990px){
+@media (max-width: 400px){
     #MoMap{
         display:none;
     }
